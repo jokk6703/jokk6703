@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+```제 모든 repo는 Private입니다. ```
+
 <!--
 **jokk6703/jokk6703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
